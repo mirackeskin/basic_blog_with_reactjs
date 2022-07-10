@@ -1,0 +1,34 @@
+{
+  "yazilar": [
+    {
+      "ad": "Yeni Başlayanlar İçin C#",
+      "aciklama": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis quaerat nesciunt quidem sed molestiae officia rerum dicta reiciendis eaque aliquid provident blanditiis enim ea, id nemo assumenda recusandae! Dolorum, eaque!",
+      "yazar": "luffy",
+      "id": 1
+    },
+    {
+      "ad": "React Js",
+      "aciklama": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis quaerat nesciunt quidem sed molestiae officia rerum dicta reiciendis eaque aliquid provident blanditiis enim ea, id nemo assumenda recusandae! Dolorum, eaque!",
+      "yazar": "Miraç",
+      "id": 2
+    },
+    {
+      "ad": "Yazılım Dersleri",
+      "aciklama": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis quaerat nesciunt quidem sed molestiae officia rerum dicta reiciendis eaque aliquid provident blanditiis enim ea, id nemo assumenda recusandae! Dolorum, eaque!",
+      "yazar": "luffy",
+      "id": 3
+    },
+    {
+      "ad": "İleri Seviye C#",
+      "aciklama": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis quaerat nesciunt quidem sed molestiae officia rerum dicta reiciendis eaque aliquid provident blanditiis enim ea, id nemo assumenda recusandae! Dolorum, eaque!",
+      "yazar": "luffy",
+      "id": 4
+    },
+    {
+      "ad": "Yeni Başlayanlar İçin React",
+      "aciklama": "Yeni Başlayanlar için oluşturduğum react kursu ve yeni kayıt",
+      "yazar": "Miraç",
+      "id": 5
+    }
+  ]
+}
